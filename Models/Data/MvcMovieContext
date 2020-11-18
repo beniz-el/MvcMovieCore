@@ -1,0 +1,1 @@
+crée une propriété <Movie> DbSet pour le jeu d’entités. Dans la terminologie Entity Framework, un jeu d’entités correspond généralement à une table de base de données. Une entité correspond à une ligne dans la table.
